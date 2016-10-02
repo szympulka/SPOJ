@@ -9,6 +9,7 @@ namespace SPOJ
 {
     class Pesel
     {
+        //ID 1261
         public void pesel()
         {
             int[] numbers = new[] {1, 3, 7, 9, 1, 3, 7, 9, 1, 3, 1};

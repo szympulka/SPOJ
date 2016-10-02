@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CzyUmieszPotegowac.cs" />
+    <Compile Include="Flamaster.cs" />
     <Compile Include="Pesel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

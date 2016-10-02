@@ -10,8 +10,12 @@ namespace SPOJ
     {
         static void Main(string[] args)
         {
-            Test3 pesel = new Test3();
-            pesel.test3();
+            //Flamaster pesel = new Flamaster();
+            //pesel.flamaster();
+
+            CzyUmieszPotegowac czyUmiesz = new CzyUmieszPotegowac();
+            czyUmiesz.czyUmieszPotegowac();
+            
         }
     }
 }

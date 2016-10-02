@@ -9,6 +9,7 @@ namespace SPOJ
     class Test3
 
     {
+        // Id 1035
          public void test3()
          {
             int help42 = 0;

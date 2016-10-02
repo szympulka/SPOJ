@@ -8,6 +8,7 @@ namespace SPOJ
 {
     class Suma
     {
+        // Id 968
         public void suma()
         {
             string x;
