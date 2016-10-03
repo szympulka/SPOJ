@@ -13,9 +13,16 @@ namespace SPOJ
             //Flamaster pesel = new Flamaster();
             //pesel.flamaster();
 
-            CzyUmieszPotegowac czyUmiesz = new CzyUmieszPotegowac();
-            czyUmiesz.czyUmieszPotegowac();
+            //CzyUmieszPotegowac czyUmiesz = new CzyUmieszPotegowac();
+            //czyUmiesz.czyUmieszPotegowac();
+            //Dodawanie dodawanie = new Dodawanie();
+            //dodawanie.dodawanie();
+
+            LiczbyPierwsze liczby = new LiczbyPierwsze();
+            liczby.liczbyPierwsze();
             
+
+
         }
     }
 }
