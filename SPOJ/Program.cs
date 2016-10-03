@@ -18,8 +18,10 @@ namespace SPOJ
             //Dodawanie dodawanie = new Dodawanie();
             //dodawanie.dodawanie();
 
-            LiczbyPierwsze liczby = new LiczbyPierwsze();
-            liczby.liczbyPierwsze();
+            //LiczbyPierwsze liczby = new LiczbyPierwsze();
+            //liczby.liczbyPierwsze();
+            ZliczaczLiter zliczacz = new ZliczaczLiter();
+            zliczacz.zliczaczLiter();
             
 
 

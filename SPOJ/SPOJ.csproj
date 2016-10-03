@@ -53,6 +53,7 @@
     <Compile Include="SredniaArytmetyczna.cs" />
     <Compile Include="Suma.cs" />
     <Compile Include="Test3.cs" />
+    <Compile Include="ZliczaczLiter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
