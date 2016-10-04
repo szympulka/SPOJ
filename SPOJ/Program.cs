@@ -20,9 +20,19 @@ namespace SPOJ
 
             //LiczbyPierwsze liczby = new LiczbyPierwsze();
             //liczby.liczbyPierwsze();
-            ZliczaczLiter zliczacz = new ZliczaczLiter();
-            zliczacz.zliczaczLiter();
+            //ZliczaczLiter zliczacz = new ZliczaczLiter();
+            //zliczacz.zliczaczLiter();
+
+
+            //PredkoscSrednia predkosc = new PredkoscSrednia();
+            //predkosc.predkoscSrednia();
             
+            Samolot samolot = new Samolot();
+            samolot.samolot();
+            
+
+
+            Console.ReadKey();
 
 
         }
