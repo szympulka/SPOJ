@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlfabetMorsea.cs" />
+    <Compile Include="CiazowySpecjalista.cs" />
     <Compile Include="CzyUmieszPotegowac.cs" />
     <Compile Include="Dodawanie.cs" />
     <Compile Include="Flamaster.cs" />
@@ -52,9 +54,11 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Samolot.cs" />
+    <Compile Include="Spacje.cs" />
     <Compile Include="SredniaArytmetyczna.cs" />
     <Compile Include="Suma.cs" />
     <Compile Include="Test3.cs" />
+    <Compile Include="WalidacjaAdresuE-Mail.cs" />
     <Compile Include="ZliczaczLiter.cs" />
   </ItemGroup>
   <ItemGroup>

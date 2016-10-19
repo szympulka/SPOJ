@@ -10,6 +10,13 @@ namespace SPOJ
     class CzyUmieszPotegowac
     {
         // ID499
+        //R = reszta z dzielenia przez 4
+        //Gdy R =   _:| 1 | 2 | 3 | 0 |
+        //           =================
+        //Dla C = 2_:| 2 | 4 | 8 | 6 |
+        //Dla C = 3_:| 3 | 9 | 7 | 1 |
+        //Dla C = 7_:| 7 | 9 | 3 | 1 |
+        //Dla C = 8_:| 8 | 4 | 2 | 6 |
         public void czyUmieszPotegowac()
         {
             List<string> war = new List<string>();

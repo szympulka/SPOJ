@@ -13,6 +13,12 @@ namespace SPOJ
             //Flamaster pesel = new Flamaster();
             //pesel.flamaster();
 
+            //Spacje spacje = new Spacje();
+            //spacje.spacje();
+            
+            //WalidacjaAdresuE_Mail walidacja = new WalidacjaAdresuE_Mail();
+            //walidacja.walidacjaAdresuEmail();
+
             //CzyUmieszPotegowac czyUmiesz = new CzyUmieszPotegowac();
             //czyUmiesz.czyUmieszPotegowac();
             //Dodawanie dodawanie = new Dodawanie();
@@ -26,12 +32,15 @@ namespace SPOJ
 
             //PredkoscSrednia predkosc = new PredkoscSrednia();
             //predkosc.predkoscSrednia();
-            
-            Samolot samolot = new Samolot();
-            samolot.samolot();
-            
 
+            //Samolot samolot = new Samolot();
+            //samolot.samolot();
 
+            //CiazowySpecjalista ciazowy = new CiazowySpecjalista();
+            //ciazowy.ciazowy();
+
+            AlfabetMorsea alfabet=new AlfabetMorsea();
+            alfabet.alfabetMorsea();
             Console.ReadKey();
 
 
